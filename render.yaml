@@ -1,5 +1,0 @@
-services:
-  - type: web
-    name: navo_middle
-    env: docker
-    plan: free
