@@ -1,8 +1,8 @@
 <div align="center">
-    <h1>Interstellar V5</h1>
-    <h3>Interstellar is one of the most modern and popular unblocking sites.</h3>
+    <h1>goof V5</h1>
+    <h3>Goof is one of the most modern and unpopular unblocking sites.</h3>
     
-### [Join our Discord!](https://discord.gg/interstellar)
+### [Join our non existing discord!](https://discord.gg/interstellar)
 </div>
 
 > **If you do fork this repo, please give the original repo a star! It helps out alot and only 30% of people who fork give us a star... besides, you know you want to...**
