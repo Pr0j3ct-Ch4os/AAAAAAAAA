@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: ohio
+    name: navo_middle
     env: docker
     plan: free
